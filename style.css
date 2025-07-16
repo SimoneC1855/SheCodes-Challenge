@@ -52,7 +52,7 @@ body {
 .content {
   font-family: "Lora";
   font-style: regular;
-  font-size: 20px;
+  font-size: 18px;
   position: absolute;
   top: 30%;
   left: 1000px;
@@ -63,7 +63,7 @@ body {
 .content2 {
   font-family: "Lora";
   font-style: regular;
-  font-size: 20px;
+  font-size: 18px;
   position: absolute;
   top: 80%;
   left: 50%;
